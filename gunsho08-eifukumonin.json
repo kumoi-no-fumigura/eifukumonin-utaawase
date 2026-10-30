@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/eifukumonin-utaawase",
  "yomi": "えいふくもんいんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（二十番・恋十首）",
+  "era": "嘉元3年（1305）1月",
+  "author": "永福門院の御所、判は持明院殿（奥書による）",
+  "desc": "永福門院の御所で、新宰相・永福門院内侍・中将・従三位親子の四人が恋の歌を十首ずつ詠み、二十番に番えた歌合。奥書に、判詞と点は持明院殿の宸筆と記す。"
+ },
  "editions": [
   {
    "pid": "1879502",
